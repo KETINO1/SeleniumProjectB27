@@ -10,7 +10,7 @@ public class SeleniumTest {
 
       // 1- setting up web driver manager
 
-        WebDriverManager.chromedriver().setup();
+       WebDriverManager.chromedriver().setup();
 
         //2 Create an instance of chrome driver
 
